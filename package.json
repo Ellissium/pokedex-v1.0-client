@@ -1,6 +1,6 @@
 {
 	"name": "client",
-	"homepage": "https://ellissium.github.io/pokedex/",
+	"homepage": "https://ellissium.github.io/pokedex-v1.0-client/",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
